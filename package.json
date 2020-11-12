@@ -1,0 +1,23 @@
+{
+  "name": "project-201233",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeychibunin/project-201233.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeychibunin/project-201233/issues"
+  },
+  "homepage": "https://github.com/sergeychibunin/project-201233#readme",
+  "devDependencies": {
+    "truffle": "^5.1.52"
+  }
+}
