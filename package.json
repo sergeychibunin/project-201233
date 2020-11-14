@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sergeychibunin/project-201233#readme",
   "devDependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
     "truffle": "^5.1.52"
   }
 }
